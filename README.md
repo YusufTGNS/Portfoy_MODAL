@@ -8,11 +8,11 @@ Bu proje, Discord botu kullanarak proje yönetimi yapmayı sağlayan bir sistemd
 - **Proje Düzenleme**: Kullanıcılar, mevcut bir projenin açıklamasını, URL'sini ve becerilerini güncelleyebilir.
 - **Proje Silme**: Kullanıcılar, mevcut bir projelerini silebilir.
 - **Veritabanı Yönetimi**: Proje bilgileri SQLite veritabanında saklanır ve kolayca erişilebilir.
-!new_project
-!delete_project
-!get_project
-!projects
-!edit_project
+- !new_project
+- !delete_project
+- !get_project
+- !projects
+- !edit_project
 
 ## Gereksinimler
 Projenin çalışabilmesi için aşağıdaki Python kütüphanelerinin kurulu olması gerekmektedir:
